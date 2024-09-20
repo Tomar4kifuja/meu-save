@@ -1,6 +1,6 @@
 # meu-save
 
-<html>
+<html lang="pt-br">
 
 <head>
     <link real="stylesheet" href="styles.css" />
