@@ -3,7 +3,7 @@
 <html lang="pt-br">
 
 <head>
-    <link real="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="style.css" />
     <title>NãoéoGabrielflix</title>
 </head>
 
